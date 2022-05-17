@@ -75,7 +75,7 @@ main > .container > .row {
 .card-img-box .btn {
   width: 15%;
   height: 10%;
-  background: url(../bucket.svg) no-repeat, #e313bf;
+  background: url(../image/bucket.svg) no-repeat, #e313bf;
   background-position: center;
   background-size: contain;
 }
